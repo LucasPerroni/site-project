@@ -1,15 +1,15 @@
 * {
     font-family: 'Times New Roman', Times, serif;
-    font-size: 16px;
+    font-size: 20px;
 }
 
 body {
-    background-color: rgb(203, 159, 245);
+    background-color: rgb(176, 121, 228);
 }
 
 main {
     background-color: white;
-    width: 500px;
+    width: 750px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.479);
