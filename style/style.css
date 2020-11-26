@@ -32,10 +32,10 @@ img.lado {
 a {
     text-decoration: none;
     font-weight: bold;
-    color: slateblue;
+    color: rgb(72, 17, 122);
 }
 
 a:hover {
     text-decoration: underline;
-    color: slateblue;
+    color: rgb(72, 17, 122);
 }
