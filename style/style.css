@@ -4,13 +4,38 @@
 }
 
 body {
-    background-color: rgb(176, 121, 228);
+    background-color: rgb(127, 127, 248);
 }
 
 main {
     background-color: white;
-    width: 750px;
+    width: 600px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.479);
+}
+
+h1 {
+    font-size: 35px;
+    color: rgb(72, 17, 122);
+}
+
+h2 {
+    font-size: 25px;
+    color: rgb(72, 17, 122);
+}
+
+img.lado {
+    float: right;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: slateblue;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: slateblue;
 }
